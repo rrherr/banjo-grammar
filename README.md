@@ -9,11 +9,11 @@ For my talk at [Deconstruct 2018](https://www.deconstructconf.com/), I made a co
 
 ## Notebook
 
-[Here's my Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
+[Here's the Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
 
 (The notebook file is a 20mb download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render audio in notebooks.)
 
-## Installing
+## Installation
 
 If you want to see the code and listen to the music, you don't need to install anything, you can just view the [notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). 
 
@@ -27,4 +27,6 @@ If you want to change the code and run it for yourself, please follow these inst
     - [Qsynth](https://sourceforge.net/projects/qsynth/) (includes fluidsynth, for MIDI → WAV audio)
 - Download [GeneralUser GS v1.471.sf2](http://schristiancollins.com/generaluser.php). (It's a "soundfont", used by fluidsynth.) Put it in the same directory as the repository.
 
-If you have any trouble, please contact me at [rrherr@gmail.com](mailto:rrherr@gmail.com) or on Twitter, [@rrherr](https://twitter.com/rrherr). I'd love to hear from you and help you any way I can!
+## Contact
+
+I'd love to hear from you! Please contact me at [rrherr@gmail.com](mailto:rrherr@gmail.com) or on Twitter, [@rrherr](https://twitter.com/rrherr).
