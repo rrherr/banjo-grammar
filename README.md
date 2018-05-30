@@ -1,12 +1,19 @@
 # Let's program a banjo grammar!
 
-I made a context-free grammar to transform plain melodies into bluegrass banjo style. I did this project for my talk at [**Deconstruct 2018**](https://www.deconstructconf.com/).
+I made a context-free grammar to transform plain melodies into bluegrass banjo style. Here's an example:
+
+<video controls width="560">
+    <source src="banjo-grammar-example-animation.mp4" type="video/mp4">
+    <img src="#" alt="Example">
+</video>
+
+I did this project for my talk at [Deconstruct 2018](https://www.deconstructconf.com/).
 
 ## Notebook
 
-[**Here's my Jupyter Notebook**](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
+[Here's my Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
 
-(The notebook file is a 20mb download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render the audio.)
+(The notebook file is a 20mb download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render audio in notebooks.)
 
 ## Installing
 
