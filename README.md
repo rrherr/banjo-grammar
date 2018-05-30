@@ -3,21 +3,22 @@
 I made a context-free grammar to transform plain melodies into bluegrass banjo style. Here's an example:
 
 <video controls width="560">
-    <source src="banjo-grammar-example-animation.mp4" type="video/mp4">
-    <img src="#" alt="Example">
+    <source src="example-animation.mp4" type="video/mp4">
+    <img src="example-fallback.png" alt="Example">
 </video>
 
-I did this project for my talk at [Deconstruct 2018](https://www.deconstructconf.com/).
+
+I did this project for my talk at [**Deconstruct 2018**](https://www.deconstructconf.com/).
 
 ## Notebook
 
-[Here's my Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
+[**Here's my Jupyter Notebook**](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
 
 (The notebook file is a 20mb download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render audio in notebooks.)
 
 ## Installing
 
-If you want to see the code and listen to the music, you don't have to install anything! Just view the [notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). 
+If you want to see the code and listen to the music, you don't need to install anything, just view the [notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). 
 
 If you want to change the code and run it for yourself, please follow these instructions:
 
