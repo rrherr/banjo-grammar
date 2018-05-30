@@ -1,14 +1,11 @@
 # Let's program a banjo grammar!
 
-I made a context-free grammar to transform plain melodies into bluegrass banjo style. Here's an example:
+For my talk at [Deconstruct 2018](https://www.deconstructconf.com/), I made a context-free grammar to transform plain melodies into bluegrass banjo style. Here's an example:
 
 <video controls width="560">
     <source src="example-animation.mp4" type="video/mp4">
     <img src="example-fallback.png" alt="Example song, before and after transformation into bluegrass banjo style">
 </video>
-
-
-I did this project for my talk at [Deconstruct 2018](https://www.deconstructconf.com/).
 
 ## Notebook
 
