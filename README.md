@@ -21,7 +21,7 @@ If you want to change the code and run it for yourself, please follow these inst
 
 - Clone the [repository](https://github.com/rrherr/banjo-grammar/).
 - Download & install [Anaconda distribution, Python 3](https://www.anaconda.com/download/). (Anaconda includes [Jupyter](http://jupyter.org/) for notebooks, [NLTK](http://www.nltk.org/) for context-free grammars, and more.)
-- Download & install each of the following command line utilities, and add them to your system path. (Binaries are available for Linux, Mac, and Windows.) 
+- Download & install these three command line utilities, and add them to your system path. (Binaries are available for Linux, Mac, and Windows.) 
     - [abcm2ps](http://abcplus.sourceforge.net/#abcm2ps) (for ABC → SVG sheet music)
     - [abc2midi](http://abcplus.sourceforge.net/#abcmidi) (for ABC → MIDI music)
     - [Qsynth](https://sourceforge.net/projects/qsynth/) (includes [fluidsynth](http://www.fluidsynth.org/), for MIDI → WAV audio)
