@@ -9,7 +9,7 @@ For my talk at [Deconstruct 2018](https://www.deconstructconf.com/), I made a co
 
 ## Notebook
 
-[Here's the Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read the Markdown explanations. 
+[Here's the Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20+ music clips, and read Markdown explanations step by step. 
 
 (The notebook file is a 20mb download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render audio in notebooks.)
 
@@ -24,7 +24,7 @@ If you want to change the code and run it for yourself, please follow these inst
 - Download & install each of the following command line utilities, and add them to your system path. (Binaries are available for Linux, Mac, and Windows.) 
     - [abcm2ps](http://abcplus.sourceforge.net/#abcm2ps) (for ABC → SVG sheet music)
     - [abc2midi](http://abcplus.sourceforge.net/#abcmidi) (for ABC → MIDI music)
-    - [Qsynth](https://sourceforge.net/projects/qsynth/) (includes fluidsynth, for MIDI → WAV audio)
+    - [Qsynth](https://sourceforge.net/projects/qsynth/) (includes [fluidsynth](http://www.fluidsynth.org/), for MIDI → WAV audio)
 - Download [GeneralUser GS v1.471.sf2](http://schristiancollins.com/generaluser.php). (It's a "soundfont", used by fluidsynth.) Put it in the same directory as the repository.
 
 ## Contact
