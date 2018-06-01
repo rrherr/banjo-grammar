@@ -29,7 +29,7 @@ If you want to change the code and run it for yourself, please follow these inst
 
 ## Wiki
 
-Visit [the wiki](https://github.com/rrherr/banjo-grammar/wiki) (a work in progress) for related links to learn more!
+[Visit the wiki](https://github.com/rrherr/banjo-grammar/wiki) (a work in progress) for links to learn more about related topics.
 
 ## Contact
 
