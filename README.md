@@ -9,9 +9,9 @@ For my talk at [Deconstruct 2018](https://www.deconstructconf.com/), I made a co
 
 ## Notebook
 
-[Here's the Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 20 music clips, and read Markdown explanations step by step. 
+[Here's the Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 22 music clips, and read Markdown explanations step by step. 
 
-(The notebook file is a 27mb download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render audio in notebooks.)
+(The notebook file is a 30 MB download, because it has embedded, uncompressed audio. The notebook should be viewed with [nbviewer](http://nbviewer.jupyter.org/), because GitHub does not render audio in notebooks.)
 
 ## Installation
 
