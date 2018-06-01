@@ -27,6 +27,10 @@ If you want to change the code and run it for yourself, please follow these inst
     - [Qsynth](https://sourceforge.net/projects/qsynth/) (includes [fluidsynth](http://www.fluidsynth.org/), for MIDI → WAV audio)
 - Download [GeneralUser GS v1.471.sf2](http://schristiancollins.com/generaluser.php). (It's a "soundfont", used by fluidsynth.) Put it in the same directory as the repository.
 
+## Wiki
+
+[Visit the wiki](https://github.com/rrherr/banjo-grammar/wiki) (a work in progress) for links to learn more about related topics.
+
 ## Contact
 
 I'd love to hear from you! Please contact me at [rrherr@gmail.com](mailto:rrherr@gmail.com) or on Twitter, [@rrherr](https://twitter.com/rrherr).
