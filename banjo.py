@@ -8,19 +8,6 @@ import re
 import subprocess
 from uuid import uuid4
 
-# Man of Constant Sorrow
-song = 'A12 G2 =F2 D12 =F2 D2 G12 =F2 G2 A12 G2 =F2 D16'
-lyrics = "w: I am a man of~con-stant sorrow I've seen trouble all my days"
-
-bagpipes = """V:1
-%%MIDI program 109
-z8 A12 G2 =F2 D12
-V:2
-%%MIDI program 109
-D,48"""
-
-# Happy Birthday
-hbd = 'D2 D2 E4 D4 G4 F8 D2 D2 E4 D4 A4 G8 D2 D2 d4 B4 G4 F4 E4 c2 c2 B4 G4 A4 G8'
 
 # ABC music notation, header defaults
 HEADER = """
@@ -35,6 +22,7 @@ K: {key}
 
 TEMPO = 130
 KEY = 'D'
+
 
 # Basic rules
 rules = """
