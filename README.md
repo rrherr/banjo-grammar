@@ -7,6 +7,10 @@ For [my talk at Deconstruct 2018](https://www.deconstructconf.com/2018/ryan-herr
     <img src="example-fallback.png" alt="Example song, before and after transformation into bluegrass banjo style">
 </video>
 
+The first 25 minutes of my [talk](https://www.deconstructconf.com/2018/ryan-herr-lets-program-a-banjo-grammar) is faux live coding this banjo grammar. 
+
+The last 10 minutes is my personal story, “crying in my banjo guru’s bathroom.” It's about how you _can_ learn hard things, like how to be fluent in a language, whether it’s music, code, or speech.
+
 ## Notebook
 
 [Here's the Jupyter Notebook](http://nbviewer.jupyter.org/github/rrherr/banjo-grammar/blob/master/banjo-grammar.ipynb). You can see the Python code, listen to 22 music clips, and read Markdown explanations step by step. 
